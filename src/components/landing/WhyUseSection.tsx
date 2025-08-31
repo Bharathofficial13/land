@@ -91,7 +91,10 @@ export const WhyUseSection = () => {
               Market Muse gave me the confidence to launch my last 3 successful products."
             </blockquote>
             <div className="flex items-center justify-center gap-4">
-              <div className="w-12 h-12 rounded-full bg-gradient-primary" />
+              <div className="w-12 h-12 rounded-full bg-gradient-primary flex items-center justify-center text-white font-bold text-lg">
+  S
+</div>
+
               <div className="text-left">
                 <div className="font-semibold text-foreground">Sarah Chen</div>
                 <div className="text-sm text-muted-foreground">Serial Entrepreneur, 3 exits</div>
